@@ -15,7 +15,7 @@
 - [ ] Training code released.
 
 ## Demo
-We deveop a visulization tool based on [nerfview](https://github.com/hangg7/nerfview), for exploring the potential applications on **embodied intelligence**.
+We develop a visualization tool based on nerfview, for exploring the potential applications of **embodied intelligence**.
 
 **[Application]** - Robot navigation
 ![alt text](assets/demo_nav1.png)
