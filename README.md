@@ -2,7 +2,7 @@
 
 **GLS: Geometry-aware 3D Language Gaussian Splatting**
 
-[![arXiv](https://img.shields.io/badge/arXiv-2411.17949-b31b1b.svg)](https://arxiv.org/pdf/2411.18066)
+[![arXiv](https://img.shields.io/badge/arXiv-2411.18066-b31b1b.svg)](https://arxiv.org/pdf/2411.18066)
 
 ![alt text](assets/pipeline.png)
 
