@@ -3,6 +3,7 @@
 **GLS: Geometry-aware 3D Language Gaussian Splatting**
 
 [![arXiv](https://img.shields.io/badge/arXiv-2411.18066-b31b1b.svg)](https://arxiv.org/pdf/2411.18066)
+[![Project Page](https://img.shields.io/badge/Project-Website-orange)](https://jiaxiongq.github.io/GLS_ProjectPage/)
 
 ![alt text](assets/pipeline.png)
 
@@ -17,13 +18,6 @@ The performance without sensor depth on the MuSHRoom dataset.
 |-------|-------|-------|-------|-------|-------|-------|
 |GLS(Paper)|0.0903|0.0703|0.0870|0.7830|0.5153|0.7h|
 |GLS(Code_V1.0)|0.0538|0.0582|0.0560|0.8357|0.6922|0.7h|
-
-
-## Applications
-We develop a visualization tool based on [nerfview](https://github.com/hangg7/nerfview), for exploring the potential applications of **embodied intelligence**.
-
-**[Application]** - Robot navigation
-![alt text](assets/demo_nav1.png)
 
 ## Citation
 
