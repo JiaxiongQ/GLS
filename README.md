@@ -19,7 +19,7 @@ The performance without sensor depth on the MuSHRoom dataset.
 |GLS(Code_V1.0)|0.0538|0.0582|0.0560|0.8357|0.6922|0.7h|
 
 
-## Demo
+## Applications
 We develop a visualization tool based on [nerfview](https://github.com/hangg7/nerfview), for exploring the potential applications of **embodied intelligence**.
 
 **[Application]** - Robot navigation
